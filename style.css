@@ -12,6 +12,10 @@ body {
     min-height: 100svh;
 }
 
+h3 {
+    text-align: center;
+}
+
 .header, .footer {
     background-color: black;
     color: white;
